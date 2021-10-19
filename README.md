@@ -1,7 +1,7 @@
 # codaspy2017
 This is the GitHub repo for the code used in the CODASPY 2017 paper. You can obtain our (i) Netflix fingerprint database and our (ii) test capture from:
 
-https://drive.google.com/drive/folders/0B3cMrOhPT_6zOUNYNUdEN0ZFXzA?usp=sharing
+https://drive.google.com/drive/folders/0B3cMrOhPT_6zOUNYNUdEN0ZFXzA?resourcekey=0-uh6TIA_pwOrRz9HlvEht9g&usp=sharing
 
 This will allow you to run the experiment that we conducted in Section 5.3.1 of the paper.
 
